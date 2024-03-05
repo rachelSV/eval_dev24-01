@@ -4,7 +4,7 @@
 <title>Connexion :</title>
 </head>
 <body>
-<h1>Connexion : </h1>
+<h1>Connexionn : </h1>
 <form action="" method="post">
 <p>Veuillez saisir votre identifiant :</p>
 <input type="text" name="login">
